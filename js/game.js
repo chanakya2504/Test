@@ -1,7 +1,7 @@
 // Author: www.mahdi7s.com
 
 var CMenu = cc.Sprite.extend({
-    defaultScale: 0.8,
+    defaultScale: 0.75,
     hovered: false,
     boundingBox: null,
     onClickCallback: null,
